@@ -1,5 +1,5 @@
 # Biography
-Chaofan Chen is a master student at University of Science and Technology of China (USTC) in School of Information Science and Technology. His research interests include Graph Structure Learning and Signal Processing. Currently, he mainly works on: 1) Local and Global Representation Learning in Graph Data; 2) Graph-based Computer Vision; 3) Self-supervised Learning.
+I am currently a master student at University of Science and Technology of China (USTC) and Institute of Automation, Chinese Academy of Sciences, supervised by Prof. Changsheng Xu. My research interests include Graph Structure Learning and Signal Processing. Recently I focus on: 1) Local and Global Representation Learning in Graph Data; 2) Graph-based Computer Vision; 3) Self-supervised Learning.
 
 * **Note**: Actively seeking for either Ph.D. or industrial opportunities starting from 2021/2022 Fall. Feel free to reach out to me if you are interested.
 
@@ -13,16 +13,16 @@ Chaofan Chen is a master student at University of Science and Technology of Chin
 # Educations
 
 - **Sept. 2019 - Now.**  
-  Master Candidate, School of Information Science and Technology, University of Science and Technology of China.  
+  Master Candidate, School of Information Science and Technology, University of Science and Technology of China, and Institute of Automation, Chinese Academy of Sciences. 
 - **Sept. 2015 - Jul. 2019**  
   Bachelor of Communication Engineering, Beijing University of Posts and Telecommunications.
 
 # Relevant Coursework
-* **Undergraduate**
-Mathematic Analysis (94/100), Linear Algebra (97/100), Probability Theory and Mathematical Statistics (88/100), Discrete Mathematics (93/100), Engineering Mathematics (87/100); C++ Programming (84/100), Data Structure (93/100), Programming Practices (94/100), Database Technology and Applications (95/100); Signals and Systems (95/100), Digital Signal Processing (95/100), Random Signal Processing (88/100), Fundamentals of Information Theory (91/100), Principles of Communications (95/100), Pattern Recognition and Applications (97/100).
+* **Undergraduate:**
+* Mathematic Analysis (94/100), Linear Algebra (97/100), Probability Theory and Mathematical Statistics (88/100), Discrete Mathematics (93/100), Engineering Mathematics (87/100), C++ Programming (84/100), Data Structure (93/100), Programming Practices (94/100), Database Technology and Applications (95/100), Signals and Systems (95/100), Digital Signal Processing (95/100), Random Signal Processing (88/100), Fundamentals of Information Theory (91/100), Principles of Communications (95/100), Pattern Recognition and Applications (97/100).
 
-* **Graduate**
-Digital Signal Processing (II) (92/100), Matrix analysis and application (89/100), Introduction to Intelligent Information Processing (95/100), Image Understanding(90/100) Statistical learning (86/100).
+* **Graduate:**
+* Digital Signal Processing (II) (92/100), Matrix analysis and application (89/100), Introduction to Intelligent Information Processing (95/100), Image Understanding(90/100), Statistical learning (86/100).
 
 # Experiences
 * **May. 2016 - Jun. 2017.**
@@ -31,7 +31,7 @@ Digital Signal Processing (II) (92/100), Matrix analysis and application (89/100
 * **Oct. 2017 - Dec. 2018.**  
   * Research Assistant: Computing Institute of Peking University
   * ➢ Focusing on the research of graph convolutional networks which can aggregate the local and global information of topology graph adequately.
-* **Feb. 2018 - Apr. 2019.**  
+* **Feb. 2018 - Now**  
   * Research and Project Intern: National Laboratory of Pattern Recognition of Institute of Automation at Chinese Academy of Sciences
   * ➢ Based on the previous research, I employ the gated graph attention network and hierarchical graph pooling network to solve the Point Cloud segmentation task and get superior results. Now my paper has been accepted by TMM (IEEE Transactions of Multimedia, top journal). 
   * ➢ I finished a project about the PDF (Medical Report) information extraction on my own. This python-based project mainly involves the regularization of content extraction, the rendering of new PDF (contains the required information and statistical charts) by ReLaXed and the deployment by Flask package. This project involves Python, ReLaXed, MongoDB.
