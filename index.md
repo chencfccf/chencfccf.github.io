@@ -28,7 +28,7 @@ I am currently a master student at University of Science and Technology of China
 * **May. 2016 - Jun. 2017.**
   * Pilot Student, Data Science Center of Beijing University of Posts and Telecommunications (BUPT)
   * ➢ First scientific research experience: starting learning the filtered back projection method and basic knowledge of statistical learning. By using this method to solve the CT reconstruction problem, I won the first prize in the CUMCM2017.
-* **Oct. 2017 - Dec. 2018.**  
+* **Oct. 2017 - Jan. 2018.**  
   * Research Assistant: Computing Institute of Peking University
   * ➢ Focusing on the research of graph convolutional networks which can aggregate the local and global information of topology graph adequately.
 * **Feb. 2018 - Now**  
