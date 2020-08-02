@@ -33,11 +33,11 @@ Chaofan Chen is a master student at University of Science and Technology of Chin
 
 * **2020**  
 
-  1. HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation.
+  1. HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation  
   **Chaofan Chen**, Shengsheng Qian, Quan Fang, Changsheng Xu  
   In IEEE Transactions on Multimedia (TMM), Note: The early access can be found in the IEEE Xplore
   
-  2. A General Model for Learning Node and Graph Representations Jointly 
+  2. A General Model for Learning Node and Graph Representations Jointly  
   **Chaofan Chen** 
   In International Conference on Pattern Recognition (ICPR) 2020, Note: Camera ready soon.
   
@@ -53,4 +53,4 @@ Chaofan Chen is a master student at University of Science and Technology of Chin
 * **First-Class Scholarship**, Beijing University of Posts and Telecommunications, 2015-2017.
 * **National Second Prize in The Mathematics Competitions**, 2016.
 * **Third Prize in College Students Physics Competitions of Some Parts of China**, 2016.
-* **First Prize in Beijing Region in Contemporary Undergraduate Mathematical Contest in Modeling", 2017.
+* **First Prize in Beijing Region in Contemporary Undergraduate Mathematical Contest in Modeling**, 2017.
