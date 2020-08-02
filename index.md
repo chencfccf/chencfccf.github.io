@@ -1,5 +1,5 @@
 # Biography
-I am currently a master student at University of Science and Technology of China (USTC) and Institute of Automation, Chinese Academy of Sciences, supervised by Prof. Changsheng Xu. My research interests include Graph Structure Learning and Signal Processing. Recently I focus on: 1) Local and Global Representation Learning in Graph Data; 2) Graph-based Computer Vision; 3) Self-supervised Learning.
+I am currently a master student at University of Science and Technology of China (USTC) and Institute of Automation, Chinese Academy of Sciences, supervised by Prof. Changsheng Xu. My research interests include Graph Structure Learning and Signal Processing. Recently, I mainly focus on: 1) Graph Local and Global Representation Learning; 2) Graph-based Computer Vision; 3) Self-supervised Learning.
 
 * **Note**: Actively seeking for either Ph.D. or industrial opportunities starting from 2021/2022 Fall. Feel free to reach out to me if you are interested.
 
@@ -18,10 +18,10 @@ I am currently a master student at University of Science and Technology of China
   Bachelor of Communication Engineering, Beijing University of Posts and Telecommunications.
 
 # Relevant Coursework
-* **Undergraduate:**
+* **Undergraduate GPA: 3.80/4.0**
 * Mathematic Analysis (94/100), Linear Algebra (97/100), Probability Theory and Mathematical Statistics (88/100), Discrete Mathematics (93/100), Engineering Mathematics (87/100), C++ Programming (84/100), Data Structure (93/100), Programming Practices (94/100), Database Technology and Applications (95/100), Signals and Systems (95/100), Digital Signal Processing (95/100), Random Signal Processing (88/100), Fundamentals of Information Theory (91/100), Principles of Communications (95/100), Pattern Recognition and Applications (97/100).
 
-* **Graduate:**
+* **Graduate GPA: 3.95/4.0**
 * Digital Signal Processing (II) (92/100), Matrix analysis and application (89/100), Introduction to Intelligent Information Processing (95/100), Image Understanding(90/100), Statistical learning (86/100).
 
 # Experiences
@@ -59,10 +59,11 @@ I am currently a master student at University of Science and Technology of China
 
 
 # Honors & Awards
+* **National Second Prize in The Mathematics Competitions**, 2016.
+* **Third Prize in College Students Physics Competitions of Some Parts of China**, 2016.
+* **First Prize in Beijing Region in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)**, 2017.
 * **Outstanding Undergraduate Student**, Beijing, 2019.
 * **Lifetime Honorary Liaison**, Beijing University of Posts and Telecommunications, 2019.
 * **Excellent Student of the “Pioneer Cup” of the Capital University Alliance**, Beijing, 2018.
 * **First-Class Scholarship**, Beijing University of Posts and Telecommunications, 2015-2017.
-* **National Second Prize in The Mathematics Competitions**, 2016.
-* **Third Prize in College Students Physics Competitions of Some Parts of China**, 2016.
-* **First Prize in Beijing Region in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)**, 2017.
+
