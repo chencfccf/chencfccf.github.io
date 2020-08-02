@@ -22,7 +22,7 @@ Chaofan Chen is a master student at University of Science and Technology of Chin
 Mathematic Analysis (94/100), Linear Algebra (97/100), Probability Theory and Mathematical Statistics (88/100), Discrete Mathematics (93/100), Engineering Mathematics (87/100); C++ Programming (84/100), Data Structure (93/100), Programming Practices (94/100), Database Technology and Applications (95/100); Signals and Systems (95/100), Digital Signal Processing (95/100), Random Signal Processing (88/100), Fundamentals of Information Theory (91/100), Principles of Communications (95/100), Pattern Recognition and Applications (97/100).
 
 * **Graduate**
-Digital Signal Processing (II) (92/100) Matrix analysis and application (89/100) Introduction to Intelligent Information Processing (95/100) Image Understanding(90/100) Statistical learning (86/100)
+Digital Signal Processing (II) (92/100), Matrix analysis and application (89/100), Introduction to Intelligent Information Processing (95/100), Image Understanding(90/100) Statistical learning (86/100).
 
 # Experiences
 * **May. 2016 - Jun. 2017.**
