@@ -1,5 +1,5 @@
 # Biography
-I am currently a master student at University of Science and Technology of China (USTC) and Institute of Automation, Chinese Academy of Sciences, supervised by Prof. Changsheng Xu. My research interests include Graph Structure Learning and Signal Processing. Recently, I mainly focus on: 1) Graph Local and Global Representation Learning; 2) Graph-based Computer Vision; 3) Self-supervised Learning.
+I am currently a master student at University of Science and Technology of China (USTC) and Institute of Automation, Chinese Academy of Sciences, supervised by Prof. Changsheng Xu (IEEE Fellow). My research interests include Graph Structure Learning and Signal Processing. Recently, I mainly focus on: 1) Graph Local and Global Representation Learning; 2) Graph-based Computer Vision; 3) Self-supervised Learning.
 
 * **Note**: Actively seeking for either Ph.D. or industrial opportunities starting from 2021/2022 Fall. Feel free to reach out to me if you are interested.
 
