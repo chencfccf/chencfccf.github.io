@@ -55,7 +55,7 @@ I am currently a master student at University of Science and Technology of China
   
   3. Hypergraph Attention Networks  
   **Chaofan Chen**, Zelei Cheng  
-  In trustcom workshop 2020, Note: Under review.
+  In trustcom workshop 2020, Note: Camera ready soon.
 
 
 # Honors & Awards
