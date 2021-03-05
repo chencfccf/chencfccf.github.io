@@ -42,6 +42,11 @@ I am currently a master student at University of Science and Technology of China
 * chencf@mail.ustc.edu.cn
   
 # Selected Publications
+* **2021**  
+
+  1. ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning 
+  **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma   
+  In IEEE Conference on Computer Vision and Pattern Recognition 2021 (CVPR), Note: Camera ready soon
 
 * **2020**  
 
@@ -55,7 +60,7 @@ I am currently a master student at University of Science and Technology of China
   
   3. Hypergraph Attention Networks  
   **Chaofan Chen**, Zelei Cheng  
-  In Proceedings of TrustCom 2020, Note: Camera ready soon.
+  In Proceedings of TrustCom 2020.
 
 
 # Honors & Awards
