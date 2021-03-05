@@ -27,24 +27,18 @@ I am currently a master student at University of Science and Technology of China
 # Experiences
 * **May. 2016 - Jun. 2017.**
   * Pilot Student, Data Science Center of Beijing University of Posts and Telecommunications (BUPT)
-  * ➢ First scientific research experience: starting learning the filtered back projection method and basic knowledge of statistical learning. By using this method to solve the CT reconstruction problem, I won the first prize in the CUMCM2017.
 * **Oct. 2017 - Jan. 2018.**  
   * Research Assistant: Computing Institute of Peking University
-  * ➢ Focusing on the research of graph convolutional networks which can aggregate the local and global information of topology graph adequately.
 * **Feb. 2018 - Now**  
   * Research and Project Intern: National Laboratory of Pattern Recognition of Institute of Automation at Chinese Academy of Sciences
-  * ➢ Based on the previous research, I employ the gated graph attention network and hierarchical graph pooling network to solve the Point Cloud segmentation task and get superior results. Now my paper has been accepted by TMM (IEEE Transactions of Multimedia, top journal). 
-  * ➢ I finished a project about the PDF (Medical Report) information extraction on my own. This python-based project mainly involves the regularization of content extraction, the rendering of new PDF (contains the required information and statistical charts) by ReLaXed and the deployment by Flask package. This project involves Python, ReLaXed, MongoDB.
-  * ➢ I participated in a visual project on detecting the foreign objects on the train. I finished the client part which involves using Pyinstaller package to generate exe file (it is used to start the detection service) and GoLang to generate dll file (it is used to faster the detection process). I also designed a cpp file to call the dll file. This project involves Python, GoLang, C++.
-
   
 # Emails
-* chencf@mail.ustc.edu.cn
+* chencfbupt@gmail.com
   
 # Selected Publications
 * **2021**  
 
-  1. ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning 
+  1. ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning  
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma   
   In IEEE Conference on Computer Vision and Pattern Recognition 2021 (CVPR), Note: Camera ready soon
 
