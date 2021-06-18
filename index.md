@@ -41,7 +41,7 @@ I am currently a second-year master student at **University of Science and Techn
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma   
   Accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021 (CVPR).
   
-  2. Global-local Context Aggregation and Knowledge-guided Classifier Calibration for Few-shot Object Detection 
+  2. Global-local Context Aggregation and Knowledge-guided Classifier Calibration for Few-shot Object Detection   
   **Note: First author, Under review.**
 
 * **2020**  
