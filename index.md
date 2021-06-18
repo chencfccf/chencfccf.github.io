@@ -5,9 +5,9 @@ I am currently a second-year master student at **University of Science and Techn
 
 # Research Interests
 
-* **Few-shot Computer Vision**
 * **Graph Neural Network**
 * **Multimedia Computing**
+* **Few-shot Computer Vision**
   
 # Educations
 
