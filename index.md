@@ -1,5 +1,5 @@
 # Biography
-I am currently a second-year master student at **University of Science and Technology of China (USTC)**, supervised by Prof. **Changsheng Xu** (IEEE Fellow, ACM Distinguished Scientist). I obtained the Bachelor of Engineering in telecommunication engineering from **Beijing University of Posts and Telecommunications (BUPT)** in June 2019. By the way, I was a member of a special class of my undergraduate university, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.
+I am currently a second-year master student at **University of Science and Technology of China (USTC)**, supervised by **Prof.** **Changsheng Xu** (IEEE Fellow, ACM Distinguished Scientist). I obtained the Bachelor of Engineering in telecommunication engineering from **Beijing University of Posts and Telecommunications (BUPT)** in June 2019. By the way, I was a member of a special class of my undergraduate university, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.
 
 * **Note: Actively seeking for either Ph.D. or industrial postions starting from 2022 Fall.**
 
