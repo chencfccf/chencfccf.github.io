@@ -1,7 +1,7 @@
 # Biography
 I am currently a second-year master student at **University of Science and Technology of China (USTC)**, supervised by **Prof.** **Changsheng Xu** (IEEE Fellow, ACM Distinguished Scientist). I obtained the Bachelor of Engineering in telecommunication engineering from **Beijing University of Posts and Telecommunications (BUPT)** in June 2019. By the way, I was a member of a special class of my undergraduate university, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.
 
-* **Note: Actively seeking for either Ph.D. or industrial postions starting from 2022 Fall.**
+* **Note: Actively seeking for either Ph.D. or industrial opportunities starting from 2022 Fall.**
 
 # Research Interests
 
@@ -39,7 +39,7 @@ I am currently a second-year master student at **University of Science and Techn
 
   1. ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning  
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma   
-  Accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021 (CVPR).
+  Accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021 **(CVPR)**.
   
   2. Global-local Context Aggregation and Knowledge-guided Classifier Calibration for Few-shot Object Detection   
   **Note: First author, Under review.**
@@ -48,15 +48,15 @@ I am currently a second-year master student at **University of Science and Techn
 
   1. HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation  
   **Chaofan Chen**, Shengsheng Qian, Quan Fang, Changsheng Xu  
-  Accepted by IEEE Transactions on Multimedia (TMM), Note: Top journal of multimedia area.
+  Accepted by IEEE Transactions on Multimedia **(TMM)**, Note: Top journal of multimedia area.
   
   2. A General Model for Learning Node and Graph Representations Jointly  
   **Chaofan Chen**  
-  Accepted by International Conference on Pattern Recognition (ICPR) 2020.
+  Accepted by International Conference on Pattern Recognition **(ICPR)** 2020.
   
   3. Hypergraph Attention Networks  
   **Chaofan Chen**, Zelei Cheng  
-  Accepted by TrustCom 2020.
+  Accepted by **TrustCom** 2020.
 
 
 # Honors & Awards
