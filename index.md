@@ -63,7 +63,7 @@ I am currently a second-year master student at **University of Science and Techn
 * **National Second Prize in The Mathematics Competitions**, 2016.
 * **Third Prize in College Students Physics Competitions of Some Parts of China**, 2016.
 * **First Prize in Beijing Region in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)**, 2017.
-* **Outstanding Undergraduate Student**, Beijing, 2019.
+* **Beijing Outstanding Graduates**, Beijing, 2019.
 * **Lifetime Honorary Liaison**, Beijing University of Posts and Telecommunications, 2019.
 * **Excellent Student of the “Pioneer Cup” of the Capital University Alliance**, Beijing, 2018.
 * **Academic Scholarship**, Beijing University of Posts and Telecommunications, 2015-2018.
