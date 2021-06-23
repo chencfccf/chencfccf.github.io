@@ -26,8 +26,8 @@ I am currently a second-year master student at **University of Science and Techn
 # Experiences
 * **May. 2016 - Jun. 2017.**
   * Pilot Student, Data Science Center of Beijing University of Posts and Telecommunications (BUPT)
-* **Oct. 2017 - Jan. 2018.**  
-  * Research Assistant: Computing Institute of Peking University
+<!-- * **Oct. 2017 - Jan. 2018.**  
+  * Research Assistant: Computing Institute of Peking University -->
 * **Feb. 2018 - Now**  
   * Research and Project Intern: National Laboratory of Pattern Recognition of Institute of Automation at Chinese Academy of Sciences
   
