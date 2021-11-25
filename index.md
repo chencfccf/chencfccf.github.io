@@ -1,7 +1,7 @@
 # Biography
-I am currently a second-year master student at **University of Science and Technology of China (USTC)**, supervised by **Prof.** **Changsheng Xu** (IEEE Fellow, ACM Distinguished Scientist). I obtained the Bachelor of Engineering in telecommunication engineering from **Beijing University of Posts and Telecommunications (BUPT)** in June 2019. By the way, I was a member of a special class of my undergraduate university, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.
+I am a Ph.D candidate at **University of Science and Technology of China (USTC)**, supervised by **Prof.** **Changsheng Xu** (IEEE Fellow, ACM Distinguished Scientist). I obtained the Bachelor of Engineering in telecommunication engineering from **Beijing University of Posts and Telecommunications (BUPT)** in June 2019. By the way, I was a member of a special class of my undergraduate university, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.
 
-* **Note: Actively seeking for either Ph.D. or industrial opportunities starting from 2022 Fall.**
+<!-- * **Note: Actively seeking for either Ph.D. or industrial opportunities starting from 2022 Fall.** -->
 
 # Research Interests
 
@@ -41,7 +41,7 @@ I am currently a second-year master student at **University of Science and Techn
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma   
   Accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021 **(CVPR)**.
   
-  2. Global-local Context Aggregation and Knowledge-guided Classifier Calibration for Few-shot Object Detection   
+  2. Distilling Category Knowledge for Few-shot Object Detection   
   **Note: First author, Under review.**
 
 * **2020**  
@@ -60,6 +60,7 @@ I am currently a second-year master student at **University of Science and Techn
 
 
 # Honors & Awards
+* **Huawei Scholarship**, 2021
 * **National Second Prize in The Mathematics Competitions**, 2016.
 * **Third Prize in College Students Physics Competitions of Some Parts of China**, 2016.
 * **First Prize in Beijing Region in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)**, 2017.
@@ -68,4 +69,7 @@ I am currently a second-year master student at **University of Science and Techn
 * **Excellent Student of the “Pioneer Cup” of the Capital University Alliance**, Beijing, 2018.
 * **Academic Scholarship**, Beijing University of Posts and Telecommunications, 2015-2018.
 * **Academic Scholarship**, University of Science and Technology of China, 2019-2021.
+
+# Social Activity
+Reviewer for ICCV2021, CVPR2021, MM2021 and TCSVT.
 
