@@ -12,7 +12,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 # Educations
 
 - **Sept. 2019 - Now.**  
-  Master Candidate, Department of Electronic Engineering and Information Science, School of Information Science and Technology, University of Science and Technology of China. 
+  Ph.D Candidate, Department of Electronic Engineering and Information Science, School of Information Science and Technology, University of Science and Technology of China. 
 - **Sept. 2015 - Jul. 2019**  
   Bachelor of Telecommunication Engineering, Beijing University of Posts and Telecommunications.
 
