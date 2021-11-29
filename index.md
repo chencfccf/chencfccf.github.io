@@ -64,7 +64,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 
 # Honors & Awards
 * **Huawei Scholarship**, 2021.
-* * **Beijing Outstanding Graduates**, Beijing, 2019.
+* **Beijing Outstanding Graduates**, Beijing, 2019.
 * **National Second Prize in The Mathematics Competitions**, 2016.
 * **Third Prize in College Students Physics Competitions of Some Parts of China**, 2016.
 * **First Prize in Beijing Region in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)**, 2017.
