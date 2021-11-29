@@ -44,7 +44,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   2. Distilling Category Knowledge for Few-shot Object Detection   
   **Note: First author, Under review.**
   
-  3. Learning to Attend and Compare: Attribute-guided Reasoning Networks for Transductive Few-shot Learning
+  3. Learning to Attend and Compare: Attribute-guided Reasoning Networks for Transductive Few-shot Learning  
   **Note: First author, Under review.**
 
 * **2020**  
