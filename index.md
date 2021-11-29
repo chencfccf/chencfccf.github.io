@@ -11,9 +11,9 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   
 # Educations
 
-- **Sept. 2019 - Now. GPA (USTC): 3.93/4.0, Ranking: 3/192, Top: 1.6%**  
+- **Sept. 2019 - Now, GPA (USTC): 3.93/4.0, Ranking: 3/192, Top: 1.6%**  
   Ph.D Candidate, Department of Electronic Engineering and Information Science, School of Information Science and Technology, University of Science and Technology of China. 
-- **Sept. 2015 - Jul. 2019 GPA (BUPT): 3.80/4.0, Ranking: 27/597, Top: 4.5%**  
+- **Sept. 2015 - Jul. 2019, GPA (BUPT): 3.80/4.0, Ranking: 27/597, Top: 4.5%**  
   Bachelor of Telecommunication Engineering, Beijing University of Posts and Telecommunications.
 
 <!-- # Relevant Coursework -->
