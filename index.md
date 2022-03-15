@@ -29,7 +29,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 <!-- * **Oct. 2017 - Jan. 2018.**   -->
 <!--   * Research Assistant: Computing Institute of Peking University -->
 * **Feb. 2018 - Now**  
-  * Research and Project Intern: National Laboratory of Pattern Recognition of Institute of Automation at Chinese Academy of Sciences
+  * Research and Project Intern: National Laboratory of Pattern Recognition of Institute of Automation at Chinese Academy of Sciences (CASIA)
   
 # Emails
 * chencfbupt@gmail.com
