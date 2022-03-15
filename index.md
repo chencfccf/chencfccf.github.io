@@ -1,5 +1,5 @@
 # Biography
-I am a Ph.D candidate at **University of Science and Technology of China (USTC)**, supervised by **Prof.** **Changsheng Xu** (IEEE Fellow, ACM Distinguished Scientist). I obtained the Bachelor of Engineering in telecommunication engineering from **Beijing University of Posts and Telecommunications (BUPT)** in June 2019. By the way, I was a member of a special class of my undergraduate university, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.
+I am a Ph.D candidate at **University of Science and Technology of China (USTC)** and **Institute of Automation, Chinese Academy of Sciences (CASIA)**, supervised by **Prof.** **Changsheng Xu** (IEEE Fellow, ACM Distinguished Scientist). I obtained the Bachelor of Engineering in telecommunication engineering from **Beijing University of Posts and Telecommunications (BUPT)** in June 2019. By the way, I was a member of a special class in BUPT, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.
 
 <!-- * **Note: Actively seeking for either Ph.D. or industrial opportunities starting from 2022 Fall.** -->
 
@@ -51,7 +51,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 
   1. HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation  
   **Chaofan Chen**, Shengsheng Qian, Quan Fang, Changsheng Xu  
-  Accepted by IEEE Transactions on Multimedia **(TMM)**, Note: Top journal of multimedia area.
+  Accepted by IEEE Transactions on Multimedia **(TMM)**, Note: JCR Q1 Top journal of multimedia area.
   
   2. A General Model for Learning Node and Graph Representations Jointly  
   **Chaofan Chen**  
@@ -74,5 +74,5 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 * **Academic Scholarship**, University of Science and Technology of China, 2019-2021.
 
 # Social Activity
-* **Reviewer for ICCV2021, CVPR2021, MM2021 and TCSVT**
+* **Reviewer for ICCV2021, CVPR2021, MM2021 and TCSVT, Neurocomputing**
 
