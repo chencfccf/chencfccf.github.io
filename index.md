@@ -66,13 +66,12 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 * **Huawei Scholarship**, 2021.
 * **Beijing Outstanding Graduates**, Beijing, 2019.
 * **National Second Prize in The Mathematics Competitions**, 2016.
-<!-- * **Third Prize in College Students Physics Competitions of Some Parts of China**, 2016. -->
 * **First Prize in Beijing Region in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)**, 2017.
 * **Lifetime Honorary Liaison**, Beijing University of Posts and Telecommunications, 2019.
 * **Excellent Student of the “Pioneer Cup” of the Capital University Alliance**, Beijing, 2018.
 * **Academic Scholarship**, Beijing University of Posts and Telecommunications, 2015-2018.
 * **Academic Scholarship**, University of Science and Technology of China, 2019-2021.
-
+<!-- * **Third Prize in College Students Physics Competitions of Some Parts of China**, 2016. -->
 # Social Activity
 * **Reviewer for ICCV2021, CVPR2021, MM2021, ECCV2022, PR, TCSVT and Neurocomputing**
 
