@@ -71,7 +71,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 * **Excellent Student of the “Pioneer Cup” of the Capital University Alliance**, Beijing, 2018.
 * **Academic Scholarship**, Beijing University of Posts and Telecommunications, 2015-2018.
 * **Academic Scholarship**, University of Science and Technology of China, 2019-2021.
-<!-- * **Third Prize in College Students Physics Competitions of Some Parts of China**, 2016. -->
+
 # Social Activity
 * **Reviewer for ICCV2021, CVPR2021, MM2021, ECCV2022, PR, TCSVT and Neurocomputing**
 
