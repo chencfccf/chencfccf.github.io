@@ -39,7 +39,9 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   1. Attribute-guided Dynamic Routing Graph Network for Transductive Few-shot Learning  
   **Chaofan Chen**, Xiaoshan Yang, Ming Yan, Changsheng Xu  
   Accepted by ACM Multimedia **(ACM MM)**.
-
+  
+  2. Distilling Category Knowledge for Few-shot Object Detection   
+  **Note: First author, Under review.**
 
 * **2021**  
 
@@ -47,8 +49,6 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma   
   Accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021 **(CVPR)**.
   
-  2. Distilling Category Knowledge for Few-shot Object Detection   
-  **Note: First author, Under review.**
   
 
 * **2020**  
