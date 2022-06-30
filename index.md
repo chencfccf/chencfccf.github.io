@@ -35,6 +35,12 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 * chencfbupt@gmail.com
   
 # Selected Publications
+* **2022**  
+  1. Attribute-guided Dynamic Routing Graph Network for Transductive Few-shot Learning  
+  **Chaofan Chen**, Xiaoshan Yang, Ming Yan, Changsheng Xu  
+  Accepted by ACM Multimedia **(ACM MM)**.
+
+
 * **2021**  
 
   1. ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning  
@@ -44,8 +50,6 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   2. Distilling Category Knowledge for Few-shot Object Detection   
   **Note: First author, Under review.**
   
-  3. Learning to Attend and Compare: Attribute-guided Reasoning Networks for Transductive Few-shot Learning  
-  **Note: First author, Under review.**
 
 * **2020**  
 
