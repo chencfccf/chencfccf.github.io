@@ -43,7 +43,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   2. Distilling Category Knowledge for Few-shot Object Detection   
   **Note: First author, Under review.**
   
-  3. Mutual Contextual Primitive Representation Learning for Compositional Zero-shot Classification
+  3. Mutual Contextual Primitive Representation Learning for Compositional Zero-shot Classification   
   **Note: Third author, Under review.** 
 
 * **2021**  
