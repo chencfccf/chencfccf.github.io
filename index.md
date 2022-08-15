@@ -42,6 +42,9 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   
   2. Distilling Category Knowledge for Few-shot Object Detection   
   **Note: First author, Under review.**
+  
+  3. Mutual Contextual Primitive Representation Learning for Compositional Zero-shot Classification
+  **Note: Third author, Under review.** 
 
 * **2021**  
 
@@ -61,9 +64,9 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   **Chaofan Chen**  
   Accepted by International Conference on Pattern Recognition **(ICPR)** 2020.
   
-  3. Hypergraph Attention Networks  
+<!--   3. Hypergraph Attention Networks  
   **Chaofan Chen**, Zelei Cheng  
-  Accepted by **TrustCom** 2020.
+  Accepted by **TrustCom** 2020. -->
 
 
 # Honors & Awards
