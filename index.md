@@ -41,10 +41,10 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   Accepted by ACM Multimedia **(ACM MM)** 2022.
   
   2. Distilling Category Knowledge for Few-shot Object Detection   
-  **Note: First author, Under review.**
+  **Note: First author, Under review.** IEEE Transactions on Image Processing.
   
   3. Mutual Contextual Primitive Representation Learning for Compositional Zero-shot Classification   
-  **Note: Third author, Under review.** 
+  **Note: Third author, Under review.** IEEE Transactions on Multimedia.
 
 * **2021**  
 
