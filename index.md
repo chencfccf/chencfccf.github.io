@@ -9,12 +9,12 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 * **Multimedia Computing**
 * **Few-shot Computer Vision**
   
-# Educations
+<!-- # Educations
 
 - **Sept. 2019 - Now, GPA (USTC): 3.93/4.0, Ranking: 3/192, Top: 1.6%**  
   Ph.D Candidate, Department of Electronic Engineering and Information Science, School of Information Science and Technology, University of Science and Technology of China. 
 - **Sept. 2015 - Jul. 2019, GPA (BUPT): 3.80/4.0, Ranking: 27/597, Top: 4.5%**  
-  Bachelor of Telecommunication Engineering, Beijing University of Posts and Telecommunications.
+  Bachelor of Telecommunication Engineering, Beijing University of Posts and Telecommunications. -->
 
 <!-- # Relevant Coursework -->
 <!-- * **Undergraduate GPA (BUPT): 3.80/4.0, Ranking: 27/597, Top: 4.5%** -->
@@ -23,13 +23,13 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 <!-- * **Graduate GPA (USTC): 3.93/4.0, Ranking: 3/192, Top: 1.6%** -->
 <!-- * Digital Signal Processing (II) (92/100), Matrix analysis and application (89/100), Introduction to Intelligent Information Processing (95/100), Image Understanding(90/100), Statistical learning (86/100). -->
 
-# Experiences
+<!-- # Experiences
 * **May. 2016 - Jun. 2017.**
   * Pilot Student, Data Science Center of Beijing University of Posts and Telecommunications (BUPT)
 <!-- * **Oct. 2017 - Jan. 2018.**   -->
 <!--   * Research Assistant: Computing Institute of Peking University -->
 * **Feb. 2018 - Now**  
-  * Research and Project Intern: National Laboratory of Pattern Recognition of Institute of Automation at Chinese Academy of Sciences (CASIA)
+  * Research and Project Intern: National Laboratory of Pattern Recognition of Institute of Automation at Chinese Academy of Sciences (CASIA) -->
   
 # Emails
 * chencfbupt@gmail.com
@@ -80,5 +80,5 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 * **Academic Scholarship**, University of Science and Technology of China, 2019-2021.
 
 # Social Activity
-* **Reviewer for ICCV2021, CVPR2021, MM2021, ECCV2022, PR, TCSVT and Neurocomputing**
+* **Reviewer for ICPR2020, MM2021, PR, TCSVT, TIP and TPAMI**
 
