@@ -37,7 +37,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 # Selected Publications
 * **2023**
   1. Category Knowledge-guided Parameter Calibration for Few-shot Object Detection   
-  **Chaofan Chen**, Xiaoshan Yang, Jinpeng Zhang, Bo Dong, Changsheng Xu 
+  **Chaofan Chen**, Xiaoshan Yang, Jinpeng Zhang, Bo Dong, Changsheng Xu  
   Accepted by IEEE Transactions on Image Processing **(TIP)** 2023.
   
 * **2022**  
