@@ -35,16 +35,21 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 * chencfbupt@gmail.com
   
 # Selected Publications
+* **2023**
+  1. Category Knowledge-guided Parameter Calibration for Few-shot Object Detection   
+  **Chaofan Chen**, Xiaoshan Yang, Jinpeng Zhang, Bo Dong, Changsheng Xu 
+  Accepted by IEEE Transactions on Image Processing **(TIP)** 2023.
+  
 * **2022**  
   1. Attribute-guided Dynamic Routing Graph Network for Transductive Few-shot Learning  
   **Chaofan Chen**, Xiaoshan Yang, Ming Yan, Changsheng Xu  
   Accepted by ACM Multimedia **(ACM MM)** 2022.
+
+  2. Active Exploration of Multimodal Complementarity for Few-Shot Action Recognition   
+  **Note: Third author, Under review.** IEEE Conference on Computer Vision and Pattern Recognition 2021 **(CVPR)**.
   
-  2. Distilling Category Knowledge for Few-shot Object Detection   
-  **Note: First author, Major Revision.** IEEE Transactions on Image Processing.
-  
-  3. Mutual Contextual Primitive Representation Learning for Compositional Zero-shot Classification   
-  **Note: Third author, Under review.** IEEE Transactions on Multimedia.
+  3. Fine-grained Primitive Representation Learning for Compositional Zero-shot Classification   
+  **Note: Third author, Under review.** IEEE International Conference on Multimedia and Expo **(ICME)**.
 
 * **2021**  
 
