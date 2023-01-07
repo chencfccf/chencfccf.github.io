@@ -46,7 +46,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   Accepted by ACM Multimedia **(ACM MM)** 2022.
 
   2. Active Exploration of Multimodal Complementarity for Few-Shot Action Recognition   
-  **Note: Third author, Under review.** IEEE Conference on Computer Vision and Pattern Recognition 2021 **(CVPR)**.
+  **Note: Third author, Under review.** IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)**.
   
   3. Fine-grained Primitive Representation Learning for Compositional Zero-shot Classification   
   **Note: Third author, Under review.** IEEE International Conference on Multimedia and Expo **(ICME)**.
