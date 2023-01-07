@@ -63,7 +63,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 
   1. HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation  
   **Chaofan Chen**, Shengsheng Qian, Quan Fang, Changsheng Xu  
-  Accepted by IEEE Transactions on Multimedia **(TMM)**, Note: JCR Q1 Top journal of multimedia area.
+  Accepted by IEEE Transactions on Multimedia **(TMM)**.
   
   2. A General Model for Learning Node and Graph Representations Jointly  
   **Chaofan Chen**  
