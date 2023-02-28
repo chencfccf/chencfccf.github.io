@@ -40,7 +40,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   **Chaofan Chen**, Xiaoshan Yang, Jinpeng Zhang, Bo Dong, Changsheng Xu  
   Accepted by IEEE Transactions on Image Processing **(TIP)** 2023.
   
-  2. Active Exploration of Multimodal Complementarity for Few-Shot Action Recognition 
+  2. Active Exploration of Multimodal Complementarity for Few-Shot Action Recognition   
   Yuyang Wanyan, Xiaoshan Yang, **Chaofan Chen**, Changsheng Xu  
   Accepted by IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)** 2023.
   
