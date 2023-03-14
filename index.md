@@ -45,7 +45,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   Accepted by IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)** 2023.
   
   3. Fine-grained Primitive Representation Learning for Compositional Zero-shot Classification   
-  Han Jiang, Xiaoshan Yang, **Chaofan Chen**, Changsheng Xu
+  Han Jiang, Xiaoshan Yang, **Chaofan Chen**, Changsheng Xu  
   Accepted by IEEE International Conference on Multimedia and Expo **(ICME)** 2023.  
   
 * **2022**  
