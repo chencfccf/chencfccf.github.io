@@ -58,7 +58,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 
   1. ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning  
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma   
-  Accepted by IEEE Conference on Computer Vision and Pattern Recognition 2021 **(CVPR)**.
+  Accepted by IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)** 2021.
   
   
 
@@ -66,7 +66,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 
   1. HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation  
   **Chaofan Chen**, Shengsheng Qian, Quan Fang, Changsheng Xu  
-  Accepted by IEEE Transactions on Multimedia **(TMM)**.
+  Accepted by IEEE Transactions on Multimedia **(TMM)** 2020.
   
   2. A General Model for Learning Node and Graph Representations Jointly  
   **Chaofan Chen**  
