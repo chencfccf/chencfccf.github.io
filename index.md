@@ -44,13 +44,15 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   Yuyang Wanyan, Xiaoshan Yang, **Chaofan Chen**, Changsheng Xu  
   Accepted by IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)** 2023.
   
+  3. Fine-grained Primitive Representation Learning for Compositional Zero-shot Classification   
+  Han Jiang, Xiaoshan Yang, **Chaofan Chen**, Changsheng Xu
+  Accepted by IEEE International Conference on Multimedia and Expo **(ICME)** 2023.  
+  
 * **2022**  
   1. Attribute-guided Dynamic Routing Graph Network for Transductive Few-shot Learning  
   **Chaofan Chen**, Xiaoshan Yang, Ming Yan, Changsheng Xu  
   Accepted by ACM Multimedia **(ACM MM)** 2022.
   
-  2. Fine-grained Primitive Representation Learning for Compositional Zero-shot Classification   
-  **Note: Third author, Under review.** IEEE International Conference on Multimedia and Expo **(ICME)**.
 
 * **2021**  
 
