@@ -50,7 +50,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   
   4. PIECL: A New Meta Learning Paradigm for Few-Shot Class-Incremental Learning   
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
-  Submitted to IEEE Transactions on Pattern Analysis And Machine Intelligence **(TPAMI)** 2023.  
+  Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)** 2023.  
   
 * **2022**  
   1. Attribute-guided Dynamic Routing Graph Network for Transductive Few-shot Learning  
