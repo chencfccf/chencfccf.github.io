@@ -92,5 +92,5 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 * **Academic Scholarship**, University of Science and Technology of China, 2019-2021.
 
 # Social Activity
-* **Reviewer for CVPR, ICCV, ACMMM and TIP**
+* **Reviewer for CVPR, ICCV, ACMMM, TNNLS and TIP**
 
