@@ -52,7 +52,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
   Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)** 2023.
 
-  5. Medium-Grained Primitive Representation Learning for Compositional Zero-Shot Learning
+  5. Medium-Grained Primitive Representation Learning for Compositional Zero-Shot Learning   
   Han Jiang, **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu
   Summitted to IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)** 2024.      
   
