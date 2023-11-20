@@ -50,7 +50,11 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
   
   4. PIECL: A New Meta Learning Paradigm for Few-Shot Class-Incremental Learning   
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
-  Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)** 2023.  
+  Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)** 2023.
+
+  5. Medium-Grained Primitive Representation Learning for Compositional Zero-Shot Learning
+  Han Jiang, **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu
+  Summitted to IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)** 2024.      
   
 * **2022**  
   1. Attribute-guided Dynamic Routing Graph Network for Transductive Few-shot Learning  
@@ -82,6 +86,7 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 
 
 # Honors & Awards
+* **National Scholarship**, 2023.
 * **Huawei Scholarship**, 2021.
 * **Beijing Outstanding Graduates**, Beijing, 2019.
 * **National Second Prize in The Mathematics Competitions**, 2016.
@@ -92,5 +97,5 @@ I am a Ph.D candidate at **University of Science and Technology of China (USTC)*
 * **Academic Scholarship**, University of Science and Technology of China, 2019-2021.
 
 # Social Activity
-* **Reviewer for CVPR, ICCV, ACMMM, TNNLS and TIP**
+* **Reviewer for CVPR, ICCV, ACM Multimedia, TNNLS, TCSVT and TIP**
 
