@@ -1,5 +1,5 @@
 # Biography
-I am a Ph.D candidate at **University of Science and Technology of China (USTC)** and **Institute of Automation, Chinese Academy of Sciences (CASIA)**, supervised by **Prof.** **Changsheng Xu** (IEEE Fellow, ACM Distinguished Scientist). I obtained the Bachelor of Engineering in telecommunication engineering from **Beijing University of Posts and Telecommunications (BUPT)** in June 2019. By the way, I was a member of a special class in BUPT, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.
+Hi! I am a fifth-year PhD student at **University of Science and Technology of China (USTC)** and **Institute of Automation, Chinese Academy of Sciences (CASIA)**, supervised by **Prof.** **Changsheng Xu** (IEEE Fellow, ACM Distinguished Scientist). I obtained the Bachelor of Engineering in telecommunication engineering from **Beijing University of Posts and Telecommunications (BUPT)** in June 2019. By the way, I was a member of a special class in BUPT, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.
 
 <!-- * **Note: Actively seeking for either Ph.D. or industrial opportunities starting from 2022 Fall.** -->
 
