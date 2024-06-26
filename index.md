@@ -1,7 +1,8 @@
 # Biography
-Hi! I am a fifth-year PhD student at **University of Science and Technology of China (USTC)** and **Institute of Automation, Chinese Academy of Sciences (CASIA)**, supervised by **Prof.** **Changsheng Xu** (IEEE Fellow, ACM Distinguished Scientist). I obtained the Bachelor of Engineering in telecommunication engineering from **Beijing University of Posts and Telecommunications (BUPT)** in June 2019. By the way, I was a member of a special class in BUPT, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.
+I will join the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences (CASIA) as an Assistant Professor in July 2024. I received my PhD from the University of Science and Technology of China (USTC) and CASIA in June 2024. My PhD supervisor is Prof. Changsheng Xu (IEEE Fellow, ACM Distinguished Scientist). Before that, I obtained a Bachelor in telecommunication engineering from the Beijing University of Posts and Telecommunications (BUPT) in June 2019. 
 
-<!-- * **Note: Actively seeking for either Ph.D. or industrial opportunities starting from 2022 Fall.** -->
+
+<!-- * **Note: Actively seeking for either Ph.D. or industrial opportunities starting from 2022 Fall.By the way, I was a member of a special class in BUPT, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.** -->
 
 # Research Interests
 
@@ -35,6 +36,16 @@ Hi! I am a fifth-year PhD student at **University of Science and Technology of C
 * chencfbupt@gmail.com
   
 # Selected Publications
+* **2024**
+  1. PIECL: A New Meta Learning Paradigm for Few-Shot Class-Incremental Learning   
+  **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
+  Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)** 2024.
+
+  2. Compact Latent Primitive Space Learning for Compositional Zero-Shot Learning   
+  Han Jiang, **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
+  Summitted to IEEE Transactions on Multimedia **(TMM)** 2024.
+
+
 * **2023**
   1. Category Knowledge-guided Parameter Calibration for Few-shot Object Detection   
   **Chaofan Chen**, Xiaoshan Yang, Jinpeng Zhang, Bo Dong, Changsheng Xu  
@@ -48,13 +59,6 @@ Hi! I am a fifth-year PhD student at **University of Science and Technology of C
   Han Jiang, Xiaoshan Yang, **Chaofan Chen**, Changsheng Xu  
   Accepted by IEEE International Conference on Multimedia and Expo **(ICME)** 2023.  
   
-  4. PIECL: A New Meta Learning Paradigm for Few-Shot Class-Incremental Learning   
-  **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
-  Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)** 2023.
-
-  5. Medium-Grained Primitive Representation Learning for Compositional Zero-Shot Learning   
-  Han Jiang, **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
-  Summitted to IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)** 2024.      
   
 * **2022**  
   1. Attribute-guided Dynamic Routing Graph Network for Transductive Few-shot Learning  
