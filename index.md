@@ -7,7 +7,7 @@ I will join the State Key Laboratory of Multimodal Artificial Intelligence Syste
 # Research Interests
 
 * **Multimedia Computing**
-* **Few-shot Computer Vision*
+* **Few-shot Computer Vision**
 * **Incremental Learning**
   
 <!-- # Educations
