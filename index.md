@@ -1,14 +1,14 @@
 # Biography
-I will join the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences (CASIA) as an Assistant Professor in July 2024. I received my PhD from the University of Science and Technology of China (USTC) and CASIA in June 2024. My PhD supervisor is Prof. Changsheng Xu (IEEE Fellow, ACM Distinguished Scientist). Before that, I obtained a Bachelor in telecommunication engineering from the Beijing University of Posts and Telecommunications (BUPT) in June 2019. 
+I will join the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences (CASIA) as an assistant professor in July 2024. I received my Ph.D. from USTC and CASIA in June 2024. My PhD supervisor is Prof. Changsheng Xu (IEEE Fellow, ACM Distinguished Scientist). Before that, I obtained a Bachelor in telecommunication engineering from BUPT in June 2019. 
 
 
 <!-- * **Note: Actively seeking for either Ph.D. or industrial opportunities starting from 2022 Fall.By the way, I was a member of a special class in BUPT, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.** -->
 
 # Research Interests
 
-* **Graph Neural Network**
 * **Multimedia Computing**
-* **Few-shot Computer Vision**
+* **Few-shot Computer Vision*
+* **Incremental Learning**
   
 <!-- # Educations
 
@@ -96,9 +96,9 @@ I will join the State Key Laboratory of Multimodal Artificial Intelligence Syste
 * **National Second Prize in The Mathematics Competitions**, 2016.
 * **First Prize in Beijing Region in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)**, 2017.
 * **Lifetime Honorary Liaison**, Beijing University of Posts and Telecommunications, 2019.
-* **Excellent Student of the “Pioneer Cup” of the Capital University Alliance**, Beijing, 2018.
+<!--   * **Excellent Student of the “Pioneer Cup” of the Capital University Alliance**, Beijing, 2018.
 * **Academic Scholarship**, Beijing University of Posts and Telecommunications, 2015-2018.
-* **Academic Scholarship**, University of Science and Technology of China, 2019-2021.
+* **Academic Scholarship**, University of Science and Technology of China, 2019-2021. -->
 
 # Social Activity
 * **Reviewer for CVPR, ICCV, ACM Multimedia, TNNLS, TCSVT and TIP**
