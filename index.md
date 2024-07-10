@@ -1,5 +1,5 @@
 # Biography
-I will join the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences (CASIA) as an Assistant Professor in July 2024. I received my Ph.D. from USTC and CASIA in June 2024. My PhD supervisor is Prof. Changsheng Xu (IEEE Fellow, ACM Distinguished Scientist). Before that, I obtained a Bachelor in telecommunication engineering from BUPT in June 2019. 
+I am an assistant professor at the State Key Laboratory of Multimodal Artificial Intelligence Systems, Institute of Automation, Chinese Academy of Sciences (CASIA). I received my Ph.D. from USTC and CASIA in June 2024. My PhD supervisor is Prof. Changsheng Xu (IEEE Fellow, ACM Distinguished Scientist). Before that, I obtained a Bachelor in telecommunication engineering from BUPT in June 2019. 
 
 
 <!-- * **Note: Actively seeking for either Ph.D. or industrial opportunities starting from 2022 Fall.By the way, I was a member of a special class in BUPT, which was composed of 38 top GPA students transfered from other majors. In the year of 2017, this class was officially named as the **Elite Class**.** -->
