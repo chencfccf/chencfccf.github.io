@@ -98,5 +98,5 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
 * **Lifetime Honorary Liaison**, Beijing University of Posts and Telecommunications, 2019.
 
 # Social Activity
-* **Reviewer for CVPR, ICCV, ACM Multimedia, TNNLS, TCSVT and TIP**
+* **Reviewer for CVPR, ICCV, ACM MM, TNNLS, TCSVT and TIP**
 
