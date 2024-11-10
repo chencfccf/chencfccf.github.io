@@ -37,13 +37,13 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
   
 # Selected Publications
 * **2024**
-  1. PIECL: A New Meta Learning Paradigm for Few-Shot Class-Incremental Learning   
+  1. A New Meta Learning Paradigm for Few-Shot Class-Incremental Learning   
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
   Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence **(TPAMI)** 2024.
 
   2. Compact Latent Primitive Space Learning for Compositional Zero-Shot Learning   
   Han Jiang, **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
-  Summitted to IEEE Transactions on Multimedia **(TMM)** 2024.
+  Accepted by IEEE Transactions on Multimedia **(TMM)** 2024.
 
 
 * **2023**
