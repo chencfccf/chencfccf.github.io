@@ -37,7 +37,7 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
   
 # Selected Publications
 * **2024**
-  1. Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning 
+  1. Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning   
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
   Accepted by the 39th Annual AAAI Conference on Artificial Intelligence **(AAAI)** 2025.
 
