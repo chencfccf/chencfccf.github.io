@@ -36,6 +36,12 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
 * chencfbupt@gmail.com
   
 # Selected Publications
+* **2025**
+  1. SPDQ: Synergetic Prompts as Disentanglement Queries for Compositional Zero-Shot Learning   
+  Han Jiang, Xiaoshan Yang, **Chaofan Chen**, Changsheng Xu  
+  Accepted by IEEE Transactions on Multimedia **(TMM)** on 2025.02.27.
+
+ 
 * **2024**
   1. Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning   
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
