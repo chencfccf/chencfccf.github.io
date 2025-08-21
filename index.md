@@ -42,7 +42,7 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
   Accepted by IEEE Transactions on Multimedia **(TMM)** on 2025.02.27.
 
   2. EgoPrompt: Prompt Learning for Egocentric Action Recognition   
-  Huaihai Lyu, ** Chaofan Chen^* **, Yuheng Ji, Changsheng Xu  
+  Huaihai Lyu, ** Chaofan Chen<sub>* **, Yuheng Ji, Changsheng Xu  
   Accepted by ACM Multimedia **(ACM MM)** 2025.
 
   3. DMC³: Dual-Modal Counterfactual Contrastive Construction for Egocentric Video Question Answering   
