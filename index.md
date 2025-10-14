@@ -37,15 +37,17 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
   
 # Selected Publications 
 (# denotes corresponding author)
-SPDQ: Synergetic Prompts as Disentanglement Queries for Compositional Zero-Shot Learning   
+
+
+  SPDQ: Synergetic Prompts as Disentanglement Queries for Compositional Zero-Shot Learning   
   Han Jiang, Xiaoshan Yang, **Chaofan Chen**, Changsheng Xu  
   Accepted by IEEE Transactions on Multimedia **(TMM)** on 2025.02.27.
 
-EgoPrompt: Prompt Learning for Egocentric Action Recognition   
+  EgoPrompt: Prompt Learning for Egocentric Action Recognition   
   Huaihai Lyu, **Chaofan Chen#**, Yuheng Ji, Changsheng Xu  
   Accepted by ACM Multimedia **(ACM MM)** 2025.
 
-DMC³: Dual-Modal Counterfactual Contrastive Construction for Egocentric Video Question Answering   
+  DMC³: Dual-Modal Counterfactual Contrastive Construction for Egocentric Video Question Answering   
   Jiayi Zou, **Chaofan Chen#**, Binkun Bao#, Changsheng Xu  
   Accepted by ACM Multimedia **(ACM MM)** 2025.
  
