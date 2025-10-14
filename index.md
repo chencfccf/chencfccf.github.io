@@ -47,43 +47,43 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
   Huaihai Lyu, **Chaofan Chen#**, Yuheng Ji, Changsheng Xu  
   Accepted by ACM Multimedia **(ACM MM)** 2025.
 
-  DMC³: Dual-Modal Counterfactual Contrastive Construction for Egocentric Video Question Answering   
+  * DMC³: Dual-Modal Counterfactual Contrastive Construction for Egocentric Video Question Answering   
   Jiayi Zou, **Chaofan Chen#**, Binkun Bao#, Changsheng Xu  
   Accepted by ACM Multimedia **(ACM MM)** 2025.
  
-  Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning   
+  * Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning   
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
   Accepted by the 39th Annual AAAI Conference on Artificial Intelligence **(AAAI)** 2025.
 
-  Compact Latent Primitive Space Learning for Compositional Zero-Shot Learning   
+  * Compact Latent Primitive Space Learning for Compositional Zero-Shot Learning   
   Han Jiang, **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
   Accepted by IEEE Transactions on Multimedia **(TMM)** 2024.
 
-  Category Knowledge-guided Parameter Calibration for Few-shot Object Detection   
+  * Category Knowledge-guided Parameter Calibration for Few-shot Object Detection   
   **Chaofan Chen**, Xiaoshan Yang, Jinpeng Zhang, Bo Dong, Changsheng Xu  
   Accepted by IEEE Transactions on Image Processing **(TIP)** 2023.
   
-  Active Exploration of Multimodal Complementarity for Few-Shot Action Recognition   
+  * Active Exploration of Multimodal Complementarity for Few-Shot Action Recognition   
   Yuyang Wanyan, Xiaoshan Yang, **Chaofan Chen**, Changsheng Xu  
   Accepted by IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)** 2023.
   
-  Fine-grained Primitive Representation Learning for Compositional Zero-shot Classification   
+  * Fine-grained Primitive Representation Learning for Compositional Zero-shot Classification   
   Han Jiang, Xiaoshan Yang, **Chaofan Chen**, Changsheng Xu  
   Accepted by IEEE International Conference on Multimedia and Expo **(ICME)** 2023.  
   
-  Attribute-guided Dynamic Routing Graph Network for Transductive Few-shot Learning  
+  * Attribute-guided Dynamic Routing Graph Network for Transductive Few-shot Learning  
   **Chaofan Chen**, Xiaoshan Yang, Ming Yan, Changsheng Xu  
   Accepted by ACM Multimedia **(ACM MM)** 2022.
   
-  ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning  
+  * ECKPN: Explicit Class Knowledge Propagation Network for Transductive Few-shot Learning  
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma   
   Accepted by IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)** 2021.
   
-  HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation  
+  * HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation  
   **Chaofan Chen**, Shengsheng Qian, Quan Fang, Changsheng Xu  
   Accepted by IEEE Transactions on Multimedia **(TMM)** 2020.
   
-  A General Model for Learning Node and Graph Representations Jointly  
+  * A General Model for Learning Node and Graph Representations Jointly  
   **Chaofan Chen**  
   Accepted by International Conference on Pattern Recognition **(ICPR)** 2020.
   
