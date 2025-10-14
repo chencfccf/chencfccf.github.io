@@ -86,15 +86,13 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu, Xuhui Huang, Zhe Ma   
   Accepted by IEEE Conference on Computer Vision and Pattern Recognition **(CVPR)** 2021.
   
-  
 
-* **2020**  
 
-  1. HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation  
+HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation  
   **Chaofan Chen**, Shengsheng Qian, Quan Fang, Changsheng Xu  
   Accepted by IEEE Transactions on Multimedia **(TMM)** 2020.
   
-  2. A General Model for Learning Node and Graph Representations Jointly  
+A General Model for Learning Node and Graph Representations Jointly  
   **Chaofan Chen**  
   Accepted by International Conference on Pattern Recognition **(ICPR)** 2020.
   
