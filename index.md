@@ -81,7 +81,7 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
   
   * HAPGN: Hierarchical Attentive Pooling Graph Network for Point Cloud Segmentation  
   **Chaofan Chen**, Shengsheng Qian, Quan Fang, Changsheng Xu  
-  Accepted by IEEE Transactions on Multimedia **(TMM)** 2020.
+  Accepted by IEEE Transactions on Multimedia **(TMM)** 2021.
   
   * A General Model for Learning Node and Graph Representations Jointly  
   **Chaofan Chen**  
