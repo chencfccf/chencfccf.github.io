@@ -39,9 +39,17 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
 (# denotes corresponding author)
 
 
+  * LAST: Bridging Vision-Language and Action Manifolds via Gromov-Wasserstein Alignment   
+  Huaihai Lyu, **Chaofan Chen#**, Yuheng Ji, Xiansheng Chen, Pengwei Wang, Shanghang Zhang#, Changsheng Xu  
+  Accepted by International Conference on Machine Learning **(ICML)** 2026.
+
+  * General Covariant Action Modeling: Constructing Generalized Manifolds via Spatio-Temporal Decoupling   
+  Huaihai Lyu, **Chaofan Chen#**, Mingyu Cao, Yuheng Ji, Changsheng Xu  
+  Accepted by International Conference on Machine Learning **(ICML)** 2026.
+
   * SPDQ: Synergetic Prompts as Disentanglement Queries for Compositional Zero-Shot Learning   
   Han Jiang, Xiaoshan Yang, **Chaofan Chen**, Changsheng Xu  
-  Accepted by IEEE Transactions on Multimedia **(TMM)** on 2025.02.27.
+  Accepted by IEEE Transactions on Multimedia **(TMM)** 2025.
 
   * EgoPrompt: Prompt Learning for Egocentric Action Recognition   
   Huaihai Lyu, **Chaofan Chen#**, Yuheng Ji, Changsheng Xu  
