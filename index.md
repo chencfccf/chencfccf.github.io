@@ -35,7 +35,7 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
 # Emails
 * chencfbupt@gmail.com
   
-# Selected Publications 
+# Recent Publications 
 (# denotes corresponding author)
 
 
@@ -59,7 +59,12 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
   Jiayi Zou, **Chaofan Chen#**, Binkun Bao#, Changsheng Xu  
   Accepted by ACM Multimedia **(ACM MM)** 2025.
  
-  * Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning   
+
+<!--   3. Hypergraph Attention Networks  
+  **Chaofan Chen**, Zelei Cheng  
+  Accepted by **TrustCom** 2020.
+
+    * Pseudo Informative Episode Construction for Few-Shot Class-Incremental Learning   
   **Chaofan Chen**, Xiaoshan Yang, Changsheng Xu  
   Accepted by the 39th Annual AAAI Conference on Artificial Intelligence **(AAAI)** 2025.
 
@@ -94,10 +99,7 @@ I am an assistant professor at the State Key Laboratory of Multimodal Artificial
   * A General Model for Learning Node and Graph Representations Jointly  
   **Chaofan Chen**  
   Accepted by International Conference on Pattern Recognition **(ICPR)** 2020.
-  
-<!--   3. Hypergraph Attention Networks  
-  **Chaofan Chen**, Zelei Cheng  
-  Accepted by **TrustCom** 2020. -->
+  -->
 
 
 # Honors & Awards
