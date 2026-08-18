@@ -38,7 +38,7 @@ I am currently a Professor in the College of Cyberspace Science and Technology, 
 # Recent Publications 
 (# denotes corresponding author, * denotes equal contribution)
   * Few-Shot Class-Incremental Learning with Low-Rank Prototype Adaptation   
-  Jifei Luo\*, **Chaofan Chen\* **, Hantao Yao, Xiao Cui, Lu Yu, Changsheng Xu  
+  Jifei Luo\*, **Chaofan Chen\***, Hantao Yao, Xiao Cui, Lu Yu, Changsheng Xu  
   Accepted by IEEE Transactions on Multimedia **(TMM)** 2026 (2026.08.12).
 
 
