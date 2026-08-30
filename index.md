@@ -37,6 +37,14 @@ I am currently a Professor in the College of Cyberspace Science and Technology, 
   
 # Recent Publications 
 (# denotes corresponding author, * denotes equal contribution)
+  * Advancing Egocentric Video Dialogue: A Contextual Reasoning Approach with New Benchmark Dataset  
+  Jiayi Zou, **Chaofan Chen#**  
+  Accepted by ACM Transactions on Multimedia Computing, Communications, and Applications **(TOMM)** 2026 (2026.08.30).
+
+  * OmniReasoner: Thinking with Long Audio-Video via Adaptive Zoom-in   
+  Yu Chen, Qiufeng Wang, Caorui Li, Ziyu Xiong, Yi-Dong Wang, Mingqi Gao, shuman liu, Biao Liu, CHUNFENG YANG, Anxiang Zeng, Haibo Zhang, **Chaofan Chen#**  
+  Accepted by Empirical Methods in Natural Language Processing **(EMNLP Main)** 2026 (2026.08.21).
+
   * Few-Shot Class-Incremental Learning with Low-Rank Prototype Adaptation   
   Jifei Luo\*, **Chaofan Chen\***, Hantao Yao, Xiao Cui, Lu Yu, Changsheng Xu  
   Accepted by IEEE Transactions on Multimedia **(TMM)** 2026 (2026.08.12).
